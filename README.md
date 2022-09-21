@@ -1,2 +1,2 @@
 # duongtm-basicES6
-ES6Course
+ES6Course w Stanford
